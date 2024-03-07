@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fac55e5ce033a68a2f060c63daba766c9022d671c392363438636623057a34b6"
+            "sha256": "24dfe686987dfe898143332a2a2fb962d13bf6a94f039539d008141b7f21b4f3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -645,12 +645,12 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:67dbec7057c6ad46f08a3667a80bdb890df9453822c93b5ddfd5e8313a718ef9",
-                "sha256:b85bd8766f995d23461e1f68a0cbc688d23e0af2b6f42a7768fc7b1826b2ec39"
+                "sha256:e03c82c124ad8a0892e498b9dde79c50868b2c267819aca3f55ce47c57ebeb1d",
+                "sha256:f92c3f2b12b88efcf767205f49be9b2f86b85544f9c4f342bb5e9904a16cf931"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==4.1.3"
+            "version": "==4.1.4"
         },
         "jupyterlab-pygments": {
             "hashes": [
@@ -989,7 +989,7 @@
                 "sha256:f870204a840a60da0b12273ef34f7051e98c3b5961b61b0c2c1be6dfd64fbcd3",
                 "sha256:ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
             ],
-            "markers": "python_version >= '3.10'",
+            "markers": "python_version >= '3.9'",
             "version": "==1.26.4"
         },
         "opencv-python": {
@@ -1749,6 +1749,7 @@
                 "sha256:ed9e29eb94cd493b36bca9cb0b1fd7f06a0688215ad1e4b3ab4931726e0ec092",
                 "sha256:f1b90ac61f862634039265cd0f746cc9879feee03ff962c803486301b778714b"
             ],
+            "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
             "version": "==2.2.1"
         },
@@ -1780,6 +1781,7 @@
                 "sha256:ea2ccdbf5974e0bf27fd6644a33b19cb0700297cf397bb0469e762c11c6c4105",
                 "sha256:ebe5fdb466aff8a8e8e755de84a843418b6f8d500624752c05eaa638d7700f3d"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==0.17.1"
         },
@@ -1829,7 +1831,7 @@
                 "sha256:69b1a937c3a517342112fb4c6df7e72fc39a38e7891a5730ed4985b5214b5475",
                 "sha256:b0abd7c89e8fb96f98db18d86106ff1d90ab692004eb746cf6eda2682f91b3cb"
             ],
-            "markers": "python_version < '3.11'",
+            "markers": "python_version >= '3.8'",
             "version": "==4.10.0"
         },
         "tzdata": {
